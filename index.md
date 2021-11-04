@@ -1,9 +1,3 @@
----
-title: Index
-date: 2021-10-20 18:20:04
-tags: 
----
-
 {% note info %} 
 ## Info
 <i class="fas fa-cog fa-spin"></i> 構築中，ほしい機能がございましたら連絡してください．
